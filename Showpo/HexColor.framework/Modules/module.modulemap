@@ -1,0 +1,10 @@
+framework module HexColor {
+  umbrella header "HexColor.h"
+
+  export *
+  module * { export * }
+}
+
+module HexColor.Swift {
+    header "HexColor-Swift.h"
+}

@@ -1,0 +1,4 @@
+github "mamaral/Neon" "56d9ebc26023fa5e131b626df07601804c2bb546"
+github "stephencelis/SQLite.swift" "0.10.0"
+github "artman/HexColor" "1.0.0"
+

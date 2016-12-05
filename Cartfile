@@ -1,0 +1,3 @@
+github "mamaral/Neon" "master"
+github "stephencelis/SQLite.swift" ~> 0.10.0
+github "artman/HexColor" ~> 1.0
